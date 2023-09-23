@@ -27,8 +27,8 @@ A aplicação segue o padrão arquitetural **MVC (Model-View-Controller)**:
 ```
 # Clone o repositório
 ```
+
 git clone [URL_DO_REPOSITÓRIO]
-```
 
 # Navegue até o diretório do projeto
 ```
@@ -44,6 +44,7 @@ Exemplo de Requisição:
 
 ```
 {
+
     "ValorBase": "12000.00 RD",
     
     "Dias": 30,
