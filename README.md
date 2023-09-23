@@ -45,7 +45,7 @@ Exemplo de Requisição:
 ```
 {
 
-    "ValorBase": "12000.00 RD",
+    "ValorBase": "18000.00",
     
     "Dias": 30,
     
